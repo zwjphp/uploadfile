@@ -1,0 +1,24 @@
+{
+    "name": "zwjphp/uploadfile",
+    "description": "一个通用文件上传包",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "php": ">=5.4.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "aaa",
+            "email": "834320733@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "zwjphp\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
